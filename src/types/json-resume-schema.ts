@@ -1,4 +1,3 @@
-import type { FromSchema, JSONSchema } from 'json-schema-to-ts'
 import jsonResumeRawSchema from '@jsonresume/schema/schema.json'
 
 // ! FIXME - JSON import as const not possible yet
